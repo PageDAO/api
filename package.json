@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/PageDAO/api#readme",
   "dependencies": {
-    "viem": "^2.9.12"
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "express": "^4.19.2"
   }
 }
