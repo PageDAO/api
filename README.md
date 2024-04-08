@@ -2,7 +2,7 @@
 provides several helpful API endpoints for PageDAO
 
 # to run
-use ```node app.js``` to run
+use ```node server.js``` to run
 
 # .env
 Create a .env file with
